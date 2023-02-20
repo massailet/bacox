@@ -7,7 +7,7 @@
 
 *Enviroment vaiables*
 
-- USER -> user for the nomachine login PASSWORD -> 123456 for the nomachine login
+- BACOX -> user for the nomachine login PASSWORD -> massaile for the nomachine login
 
 *Usage:*
 
@@ -52,6 +52,6 @@ curl -sLkO https://is.gd/nomachinexfce4 ; bash nomachinexfce4
  ```
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
-*Main Repo: https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine*
+*Main Repo: https://https://github.com/massailet/bacox*
 
 
