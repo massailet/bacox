@@ -52,6 +52,6 @@ curl -sLkO https://is.gd/nomachinexfce4 ; bash nomachinexfce4
  ```
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
-*Main Repo: https://https://github.com/massailet/bacox*
+*Main Repo: https://github.com/massailet/bacox*
 
 
